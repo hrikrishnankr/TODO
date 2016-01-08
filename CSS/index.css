@@ -1,0 +1,27 @@
+#todoList{
+	width: 100%;
+}
+
+.spanClass1{
+	width: 13%;
+	font-size: 16px;
+	font-weight: bold;
+	color:red;
+	display: inline-block;
+}
+
+.spanClass2{
+	min-width: 10%;
+	font-size: 16px;
+	font-weight: bold;	
+	display: inline-block;
+}
+
+.btnStyle{
+	height: 40px;
+	width: 60px;
+}
+
+.divStyle{
+	margin: 15px;
+}
